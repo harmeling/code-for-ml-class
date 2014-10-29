@@ -1,6 +1,6 @@
 # A couple of notebooks for my Julia tutorial
 
-These files can be easily clone by typing:
+These files can be cloned by typing:
 
     git clone https://github.com/harmeling/julia-tutorial
 
